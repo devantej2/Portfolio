@@ -1,0 +1,63 @@
+body {
+  background-image: url(images/mosaic.png);
+}
+.container {
+  margin: 0 auto;
+  margin-top: 10px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.about {
+  width: 150px;
+  margin: 0 auto;
+}
+nav {
+  margin-bottom: 20px;
+}
+.card {
+  width: auto;
+  box-sizing: border-box;
+  margin: auto;
+  border: none;
+}
+.portfolio {
+  margin-bottom: 10px;
+}
+.card-title {
+  text-align: center;
+  font-size: 30px;
+}
+.size {
+  height: 300px;
+}
+
+.sky {
+  background: lightskyblue;
+}
+.crystal {
+  background: lavender;
+}
+.about-background {
+  background: gray;
+}
+ul {
+  list-style-type: none;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+}
+
+form {
+  background: lightgray;
+  padding: 10px;
+}
+
+.form-row {
+  margin: 10px;
+}
+
+a {
+  color: whitesmoke;
+}
